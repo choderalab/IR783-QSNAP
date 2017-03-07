@@ -25,11 +25,12 @@ Based on comparison of classification performance analysis in presented in this 
 
 References
 ----------
-- OEChem, version 2.0.5, OpenEye Scientific Software, Inc., Santa Fe, NM, USA, www.eyesopen.com, 2010.
-- OEMolProp, version 2.4.1, OpenEye Scientific Software, Inc., Santa Fe, NM, USA, www.eyesopen.com, 2010
-- Kier, L.B. & Hall, L.H. An electrotopological-state index for atoms in molecules. Pharmaceutical research 7, 801-807 (1990).
-- DRAGON 6 software (Talette SRL, Milan, Italy).
-- Chem3D software.
+1. OEChem, version 2.0.5, OpenEye Scientific Software, Inc., Santa Fe, NM, USA, www.eyesopen.com, 2010.
+2. OEMolProp, version 2.4.1, OpenEye Scientific Software, Inc., Santa Fe, NM, USA, www.eyesopen.com, 2010
+3. Kier, L.B. & Hall, L.H. An electrotopological-state index for atoms in molecules. Pharmaceutical research 7, 801-807 (1990).
+4. Schomburg, Karen T., Lars Wetzer, and Matthias Rarey. “Interactive Design of Generic Chemical Patterns.” Drug Discovery Today 18, no. 13–14 (July 2013): 651–58. doi:10.1016/j.drudis.2013.02.001.
+5. DRAGON 6 software (Talette SRL, Milan, Italy).
+6. Chem3D software.
 
 Dependencies
 ------------
