@@ -34,13 +34,10 @@ References
 
 Dependencies
 ------------
-- Pandas
-- NumPy
-- Os
-- Re
-- Matplotlib
-- Scikit-learn
-- SciPy
-- Statsmodels
 - OpenEye OEChem, version 2.0.5
-- OpenEye OEMolProp, version 2.4.1
+- OpenEye OEMolProp, version 2.4.1  
+
+	To install required packages:
+	```
+	pip install -r requirements.txt
+	```
