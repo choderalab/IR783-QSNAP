@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1117393.svg)](https://doi.org/10.5281/zenodo.1117393)
+
 # IR783-QSNAP
 
 Analysis of Quantitative Structure-Nanoparticle Assembly Prediction (QSNAP) descriptors for predicting drug-indocyanine dye (IR783) nanoparticle formation.
